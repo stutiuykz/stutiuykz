@@ -1,27 +1,33 @@
 <div align="center">
 
-# Hi 👋, I'm **Stutiyukz**
+# Hi 👋, I'm **Stuti**
 
-### 💻 BTech Student | Aspiring Full Stack Developer 🚀
+### 💻 B.Tech CSE (AI & ML) Student | Full Stack Developer | Java Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer+in+Progress;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Java+Developer;Full+Stack+MERN+Developer;Always+Learning+New+Technologies;Building+Projects+One+Commit+at+a+Time" />
 
-<p>
 <img src="https://komarev.com/ghpvc/?username=stutiyukz&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 BTech Student
-- 🌱 Currently learning **MERN Stack**
-- 💻 Interested in Full Stack Development
-- ⚡ Love building real-world projects
-- 📚 Improving my DSA & Problem Solving skills
-- 🎯 Goal: Become a Software Engineer
+🎓 **B.Tech in Computer Science & Engineering (AI & ML)**  
+🏫 United Institute of Technology, Prayagraj
+
+🌱 Currently learning **Advanced MERN Stack**
+
+💻 Passionate about
+- Full Stack Development
+- Java Development
+- Problem Solving
+- Open Source
+
+🚀 I enjoy building real-world applications that solve practical problems.
+
+🎯 **Goal:** Become a Software Engineer at a top product-based company.
 
 ---
 
@@ -29,21 +35,88 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode,linux&perline=7"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 💼 Projects
 
-<p align="center">
+## 🎹 PianoVerse
+A Full Stack MERN application where users can:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stutiyukz&show_icons=true&theme=tokyonight"/>
+- Register & Login securely
+- Play a virtual piano
+- Save compositions
+- Access saved music anytime
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutiyukz&layout=compact&theme=tokyonight"/>
+**Tech Stack**
 
-</p>
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+## 🍽 Restaurant Management System
+
+Desktop application developed using Java Swing featuring
+
+- Interactive GUI
+- Menu Management
+- OOP based architecture
+
+**Tech Stack**
+
+`Java` `Swing` `Collections`
+
+---
+
+## 👨‍🎓 Student Management System
+
+Java GUI application supporting
+
+- Create Student
+- Update Student
+- Delete Student
+- Search Student
+
+Built using Java Collections Framework.
+
+**Tech Stack**
+
+`Java` `Swing` `Collections`
+
+---
+
+## 🛒 Amazon Clone
+
+Responsive frontend clone of Amazon.
+
+**Tech Stack**
+
+`HTML`
+`CSS`
+`JavaScript`
+
+---
+
+# 🏆 Achievements
+
+🥇 Branch Rank 1 (Second Year – CSE AIML)
+
+🥈 2nd Rank in B.Tech First Year
+
+🏅 School Topper (Class X)
+
+🏅 Ranked 13th in Varanasi Region AISCE
+
+---
+
+# 📜 Certifications
+
+✅ Java & Collection Frameworks
+
+✅ Full Stack Development Using MERN
 
 ---
 
@@ -51,27 +124,17 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=stutiyukz&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=stutiuykz&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=stutiyukz&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stutiyukz&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stutiuykz&theme=tokyo-night"/>
 
 </p>
 
@@ -81,25 +144,32 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:stuti2031@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a> 
+
+<a href="https://github.com/stutiuykz">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<!-- Replace '#' with your LinkedIn URL -->
+<a href="https://www.linkedin.com/in/stuti-640944321">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/u/stuti_211106/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://www.geeksforgeeks.org/profile/stuti06?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </p>
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
-> *"Consistency beats intensity. Code every day and success will follow."*
+> **"Success isn't about being the smartest. It's about being consistent enough to never stop learning."**
 
 ---
 
@@ -107,6 +177,8 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
 
 </div>
