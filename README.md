@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=280&section=header&text=Stuti&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20%26%20ML%20Student&descAlignY=58"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=280&section=header&text=Stuti&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20%26%20ML%20Student&descAlignY=58"/>
+</p>
 
 # Hi 👋, I'm **Stuti**
 
@@ -59,8 +59,21 @@ A Full Stack MERN application where users can
 - Secure Authentication
 
 **Tech Stack**
+## 🎹 PianoVerse
 
-`MongoDB` `Express.js` `React.js` `Node.js`
+> 🎼 A Full Stack MERN Piano Web App
+
+**Tech**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+
+![Node](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+
+🔗 **Repository:** https://github.com/stutiuykz/PianoVerse
 
 ---
 
