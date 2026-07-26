@@ -160,13 +160,9 @@ Responsive frontend clone of Amazon.
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/stutiuykz">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-
-&nbsp;&nbsp;
 
 <!-- Replace '#' with your LinkedIn URL -->
 <a href="https://www.linkedin.com/in/stuti-640944321">
