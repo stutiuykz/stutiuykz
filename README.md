@@ -124,9 +124,9 @@ Responsive frontend clone of Amazon.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stutiyukz&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=stutiuykz&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutiyukz&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutiuykz&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -136,7 +136,7 @@ Responsive frontend clone of Amazon.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=stutiyukz&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=stutiuykz&theme=tokyonight"/>
 
 </p>
 
@@ -146,7 +146,7 @@ Responsive frontend clone of Amazon.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stutiyukz&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stutiuykz&theme=tokyo-night"/>
 
 </p>
 
@@ -162,7 +162,7 @@ Responsive frontend clone of Amazon.
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/stutiyukz">
+<a href="https://github.com/stutiuykz">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
