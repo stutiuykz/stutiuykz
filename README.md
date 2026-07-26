@@ -169,7 +169,7 @@ Responsive frontend clone of Amazon.
 &nbsp;&nbsp;
 
 <!-- Replace '#' with your LinkedIn URL -->
-<a href="#">
+<a href="https://www.linkedin.com/in/stuti-640944321">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
