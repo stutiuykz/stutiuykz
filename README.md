@@ -1,12 +1,16 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=280&section=header&text=Stuti&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI%20%26%20ML%20Student&descAlignY=58"/>
+
 # Hi 👋, I'm **Stuti**
 
 ### 💻 B.Tech CSE (AI & ML) Student | Full Stack Developer | Java Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Java+Developer;Full+Stack+MERN+Developer;Always+Learning+New+Technologies;Building+Projects+One+Commit+at+a+Time" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Java+Developer;Full+Stack+MERN+Developer;Open+Source+Learner;Always+Learning+New+Technologies🚀"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=stutiyukz&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=stutiuykz&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -14,20 +18,22 @@
 
 # 👩‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Engineering (AI & ML)**  
+🎓 **B.Tech Computer Science & Engineering (AI & ML)**  
 🏫 United Institute of Technology, Prayagraj
 
 🌱 Currently learning **Advanced MERN Stack**
 
 💻 Passionate about
-- Full Stack Development
+
 - Java Development
+- Full Stack Development
 - Problem Solving
+- Data Structures & Algorithms
 - Open Source
 
 🚀 I enjoy building real-world applications that solve practical problems.
 
-🎯 **Goal:** Become a Software Engineer at a top product-based company.
+🎯 Goal: **Software Engineer at a Product-Based Company**
 
 ---
 
@@ -35,21 +41,22 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode,linux&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode,linux,postman&perline=5"/>
 
 </p>
 
 ---
 
-# 💼 Projects
+# 💼 Featured Projects
 
 ## 🎹 PianoVerse
-A Full Stack MERN application where users can:
 
-- Register & Login securely
-- Play a virtual piano
-- Save compositions
-- Access saved music anytime
+A Full Stack MERN application where users can
+
+- Register & Login
+- Play Virtual Piano
+- Save Compositions
+- Secure Authentication
 
 **Tech Stack**
 
@@ -59,40 +66,45 @@ A Full Stack MERN application where users can:
 
 ## 🍽 Restaurant Management System
 
-Desktop application developed using Java Swing featuring
+Desktop application built using Java Swing.
+
+### Features
 
 - Interactive GUI
-- Menu Management
-- OOP based architecture
+- Restaurant Menu
+- OOP Architecture
+- Collections Framework
 
-**Tech Stack**
+**Tech**
 
-`Java` `Swing` `Collections`
+`Java` `Swing`
 
 ---
 
 ## 👨‍🎓 Student Management System
 
-Java GUI application supporting
+CRUD application using Java Collections Framework.
 
-- Create Student
-- Update Student
+### Features
+
+- Add Student
 - Delete Student
 - Search Student
+- Update Student
 
-Built using Java Collections Framework.
+**Tech**
 
-**Tech Stack**
-
-`Java` `Swing` `Collections`
+`Java`
+`Swing`
+`Collections`
 
 ---
 
 ## 🛒 Amazon Clone
 
-Responsive frontend clone of Amazon.
+Responsive Amazon homepage clone.
 
-**Tech Stack**
+**Tech**
 
 `HTML`
 `CSS`
@@ -102,7 +114,7 @@ Responsive frontend clone of Amazon.
 
 # 🏆 Achievements
 
-🥇 Branch Rank 1 (Second Year – CSE AIML)
+🥇 Branch Rank 1 (Second Year)
 
 🥈 2nd Rank in B.Tech First Year
 
@@ -116,7 +128,7 @@ Responsive frontend clone of Amazon.
 
 ✅ Java & Collection Frameworks
 
-✅ Full Stack Development Using MERN
+✅ Full Stack Development using MERN
 
 ---
 
@@ -124,9 +136,9 @@ Responsive frontend clone of Amazon.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stutiuykz&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=stutiuykz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutiuykz&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stutiuykz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -136,7 +148,17 @@ Responsive frontend clone of Amazon.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=stutiuykz&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=stutiuykz&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=stutiuykz&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
@@ -160,16 +182,53 @@ Responsive frontend clone of Amazon.
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/stutiuykz">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<!-- Replace '#' with your LinkedIn URL -->
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/stuti-640944321">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/stuti_211106/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/stuti06?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+# 💡 Currently Learning
+
+- MERN Stack
+- Data Structures & Algorithms
+- REST APIs
+- System Design Basics
+- Backend Development
+
+---
+
+# 📚 Goals for 2026
+
+✅ Build 10+ Full Stack Projects
+
+✅ Master Data Structures & Algorithms
+
+✅ Contribute to Open Source
+
+✅ Crack Internship at Top Product Company
 
 ---
 
@@ -185,6 +244,6 @@ Responsive frontend clone of Amazon.
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 
 </div>
